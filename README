@@ -1,1 +1,6 @@
-first! Now second! How about a third?
+git add README
+git commit -m 'first commit'
+** git remote add origin git@github.com:skyqtest/skyqtest.git **
+git push -u origin master
+
+** for adding a new dir
